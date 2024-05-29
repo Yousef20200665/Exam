@@ -194,7 +194,7 @@ $(document).ready(function () {
         cat=finalRlt.categories;
         // console.log(finalRlt);
         //  console.log(cat.length);
-        // console.log(cat);
+         console.log(cat);
       }
       getCategory()
       
